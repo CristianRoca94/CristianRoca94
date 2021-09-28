@@ -1,4 +1,4 @@
-Soy Cristian Roca 💻👨🏽‍💻, Ingeniero Informático y Desarrollador de Aplicaciones Web. podéis ver todos mis trabajos y prácticas en los repositorios que tengo aquí en GitHub. <br>
+Soy Cristian Roca 💻👨🏽‍💻, Ingeniero Informático en proceso y Desarrollador de Aplicaciones Web. podéis ver todos mis trabajos y prácticas en los repositorios que tengo aquí en GitHub. <br>
 
 <i>Lenguajes en los que escribo: </i><br>
 - Java
